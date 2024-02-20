@@ -1,19 +1,24 @@
 @import url("https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300&display=swap");
+
 :root {
   --bgOrange: #e84949;
 }
+
 body {
   overflow-x: hidden;
 }
+
 * {
   margin: 0;
   padding: 0;
   font-family: "Be Vietnam Pro", sans-serif;
   scroll-behavior: smooth;
 }
+
 a{
   text-decoration: none;
 }
+
 .container {
   max-width: 1200px;
   margin: 0 auto;
@@ -204,6 +209,47 @@ a{
     transform: translateY(0px);
   }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .icon-cube {
   top: -0.8em;
